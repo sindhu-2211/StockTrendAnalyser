@@ -98,7 +98,7 @@ pydantic==2.11.4
 pydantic-settings==2.9.1
 pydantic_core==2.33.2
 pydeck==0.9.1
-Pygments==2.18.0
+Pygments==2.19.1
 pypdf==5.5.0
 pypiwin32==223
 python-dateutil==2.9.0.post0
@@ -115,7 +115,7 @@ referencing==0.35.1
 regex==2024.11.6
 requests==2.32.3
 requests-toolbelt==1.0.0
-rich==13.9.4
+rich==14.0.0
 rpds-py==0.22.3
 safetensors==0.4.5
 scikit-learn==1.6.1
